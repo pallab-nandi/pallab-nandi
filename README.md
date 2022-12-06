@@ -1,7 +1,7 @@
 [![Master](https://user-images.githubusercontent.com/63771731/205990060-c98dfadd-335b-497f-9818-11fa9a737842.gif)](https://github.com/pallab-nandi)
 
 <h1 align="center">Hi 👋, This is Pallab Nandi</h1>
-<h3 align="center">A passionate backend developer from India 🇮🇳. Currently pursuing my dream to be a 👨‍💻 good developer. Looking forward to be better serve 🙇 my beloved country.</h3>
+<h3 align="center">A passionate backend developer from India 🇮🇳. Currently pursuing my dream to be a 👨‍💻 good developer. Looking forward to better serve 🙇 my beloved country.</h3>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MySQL, MongoDB, Git, Postman API**
 

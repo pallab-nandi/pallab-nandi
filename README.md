@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/pallab-nandi"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4y9xz-JicW_iRNS8Ic4fTEfJhGZBCgucSePNwdjTVBQ1olKJ94HFjkSFhYoQs01vzazQJ6Z_ZmdUD65_bRa6ZTDtlPaBjJxuLLa5veBgPrDYK2QXO4rccTQtaz2RIkZ8aVZXR1nC2IAA4xGgfxWkHIpzzy655IsTCGFcEjY8AHGR6bgW55Cjp__76Ag/s1080/final%20github%20profile.gif" alt="pallabnandi"/></a></p>
+<p align="center"><a href="https://github.com/pallab-nandi"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcTaGZO_2IZhNd_-ZVIMWCaSfco6tb1dIOwzaq3kzvM3XsaiU0f7qoH50mVi1_WT2FU9Gfu8u3QAeyVVrpZ5n9wi4J0kCrGxe7JIAs9wpUfNic3lMgNOvFAnv4Xt4gUlK-hpHVRHcGBpH2Tz2m-KQgNlNtijHZnDnWquIYpS_ohHB-hfYIPbX3nSd_gw/s1080/final%20github%20profile.gif" alt="pallabnandi"/></a></p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, This is <span style="color:#BF91F3;">Pallab Nandi</span></h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳. Currently pursuing my dream to be a 👨‍💻 good developer. Looking forward to better serve 🙇 my beloved country.</h3>

@@ -1,6 +1,6 @@
-[![Master](https://user-images.githubusercontent.com/63771731/205990060-c98dfadd-335b-497f-9818-11fa9a737842.gif)](https://github.com/pallab-nandi)
+<p align="center"><a href="https://github.com/pallab-nandi"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuz4ja87xEy5va1TcoBOYU0BbLEhYgQQTeTMVmXINw2fVz2NKrvjO5tvbV-UV4Ay_T3eDVxqYIJUu-xexGShIz3wW9STLZwvhxBadMA6XMeO49YGDU4vBFsuiq13uhRe479HFznucQ8gpKHz7ckZh8FvFEtJA0J1HLBe3jtK3S797D8mQu76vZQHKF7Q/s1080/final%20github%20profile.gif" alt="pallabnandi"/></a></p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, This is Pallab Nandi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, This is <span style="color:#BF91F3;">Pallab Nandi</span></h1>
 <h3 align="center">A passionate backend developer from India 🇮🇳. Currently pursuing my dream to be a 👨‍💻 good developer. Looking forward to better serve 🙇 my beloved country.</h3>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MySQL, MongoDB, Git, JWT**

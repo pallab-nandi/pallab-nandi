@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/pallab-nandi"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcTaGZO_2IZhNd_-ZVIMWCaSfco6tb1dIOwzaq3kzvM3XsaiU0f7qoH50mVi1_WT2FU9Gfu8u3QAeyVVrpZ5n9wi4J0kCrGxe7JIAs9wpUfNic3lMgNOvFAnv4Xt4gUlK-hpHVRHcGBpH2Tz2m-KQgNlNtijHZnDnWquIYpS_ohHB-hfYIPbX3nSd_gw/s1080/final%20github%20profile.gif" alt="pallabnandi"/></a></p>
 
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm <span style="color:#BF91F3;">Pallab Nandi</span></h1>
-<h3 align="center">a tech enthusiast and software developer from Alipurduar, West Bengal, India. 💻 I love developing web-based solutions using JavaScript, Node.js, Express, SQL, MongoDB, NoSQL, Git, GitHub, and more. When I’m not coding, I enjoy reading books 📚, playing chess ♟️, and solving puzzles 🧩. You can check out some of my web projects below or follow me on GitHub to see what I’m working on. 🔥 Feel free to connect with me on [LinkedIn](https://in.linkedin.com/in/pallabnandi). 🙌</h3>
+<h3 align="center">A tech enthusiast and software developer from Alipurduar, West Bengal, India. 💻 I love developing web-based solutions using JavaScript, Node.js, Express, SQL, MongoDB, NoSQL, Git, GitHub, and more. When I’m not coding, I enjoy reading books 📚, playing chess ♟️, and solving puzzles 🧩. You can check out some of my web projects below or follow me on GitHub to see what I’m working on. 🔥 Feel free to connect with me on <a href='https://in.linkedin.com/in/pallabnandi'>LinkedIn</a> or through email. 🙌</h3>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MySQL, MongoDB, Git, JWT**
 

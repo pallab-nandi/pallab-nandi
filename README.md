@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/pallab-nandi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mysql,mongodb,git,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mysql,mongodb,git,python,java,latex&perline=6" />
   </a>
 </p>
 
